@@ -6,11 +6,7 @@
 *.Makefile
 *.target.gyp.mk
 stage
-lib/binding
 build
-out
-Release
-Debug
 node_modules
 .deps
 Makefile.gyp
