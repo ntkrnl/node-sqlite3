@@ -8,8 +8,6 @@
 stage
 build
 out
-Release
-Debug
 node_modules
 .deps
 Makefile.gyp
